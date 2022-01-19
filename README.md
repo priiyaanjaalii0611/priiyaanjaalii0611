@@ -1,6 +1,7 @@
 ### Hi there 👋
-I am interested in development in ANY FIElD
-Looking for a team or a project to work on XDXD
+#I love developing and researching
+#Looking for a team or an organization where I can learn and develop my skills
+#My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
 
 
 
