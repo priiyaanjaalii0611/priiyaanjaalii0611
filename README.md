@@ -8,7 +8,7 @@
 * 🍀 Curretly doing a course on neural networks and deep learning
 * ⛑️ Looking for help in object detection module using tensorflow and COMPETITIVE CODING🥺
 * ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
-* 📬 Reach me out on [Instagram](https://www.instagram.com/fruitykernel/) or [Linkedin](https://www.linkedin.com/in/fruitykernel/) 
+* 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/fruitykernel/) 
 * 🐤 Fun Fact: Engineering student but happy (Trying to be funny)
 
 
