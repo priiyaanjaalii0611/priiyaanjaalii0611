@@ -5,7 +5,7 @@
 
 * 💙 I love developing and researching
 * 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
-* 🍀 Curretly doing a course on neural networks and deep learning
+* 🍀 Currently doing a course on neural networks and deep learning
 * ⛑️ Looking for help in object detection module using tensorflow and COMPETITIVE CODING🥺
 * ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
 * 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/fruitykernel/) 
